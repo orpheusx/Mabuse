@@ -1,0 +1,8 @@
+Welcome to Mabuse, a simple and experimental game engine written in Java.
+
+The current notion is to use jMonkey and Project Darkstar to build a muli-platform engine and toolset to create multiplayer, cooperative games.
+
+It's also an experiment in distributed development.
+
+I wouldn't have too many expectations, however, as this is very much a side project.
+
